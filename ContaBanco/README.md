@@ -1,18 +1,28 @@
-## Getting Started
+📋 Desafio DIO - Projeto ContaTerminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+🎉 Bem-vindo ao projeto ContaTerminal! 🎉
 
-## Folder Structure
+Este projeto é um simples programa de console em Java que simula a criação de uma conta bancária. O usuário é guiado para inserir informações básicas sobre a conta e, em seguida, recebe uma confirmação dos dados inseridos. É um ótimo exemplo para iniciantes aprenderem sobre entrada de dados, uso do Scanner, e manipulação de strings e números em Java.
 
-The workspace contains two folders by default, where:
+🚀 Como funciona?
+O programa solicita ao usuário as seguintes informações:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Número da Agência 🏦
+Número da Conta 🏢
+Nome do Cliente 👤
+Saldo Disponível 💵
+Após inserir esses dados, o programa exibe uma mensagem confirmando a criação da conta com os dados fornecidos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+🧩 Recursos utilizados
+Java ☕
+Scanner para entrada de dados do usuário
+Console para interação básica
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+4o
+
+
